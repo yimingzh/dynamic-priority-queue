@@ -3,14 +3,7 @@
 #include <stdlib.h>
 #include <assert.h>
 
-// INTEGRITY STATEMENT (modify if necessary)
-// I received help from the following sources:
-// None. I am the sole author of this work 
-
-// sign this statement by removing the line below and entering your name
-
 // Name: Yiming Zhong
-// login ID: y45zhong
 
 // implementation:
 
